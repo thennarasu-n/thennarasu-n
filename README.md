@@ -1,16 +1,15 @@
 # 🔵 N. Thennarasu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=CYBERSECURITY+STUDENT;DEFENSIVE+SECURITY;THREAT+DETECTION;SECURITY+ENGINEERING;CTF+PLAYER;FUTURE+SECURITY+ARCHITECT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=CYBERSECURITY+STUDENT;DEFENSIVE+SECURITY;THREAT+DETECTION;SECURITY+ENGINEERING;CTF+PLAYER;FUTURE+SECURITY+ARCHITECT" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:0077B6,100:00BFFF&height=3" width="90%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:0077B6,100:00BFFF&height=4&section=header" width="90%">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thennarasu-n&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/thennarasu-n?label=FOLLOWERS&style=for-the-badge&color=0077B6" />
 </p>
 
 ---
@@ -30,12 +29,15 @@
 
 ### 🎯 Focus
 
-`Defensive Security` • `Threat Detection` • `Security Engineering` • `Security Architecture`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=Defensive+Security;Threat+Detection;Security+Engineering;Security+Architecture" />
+</p>
 
 ### 🧠 Interests
 
-`Blue Teaming` • `Threat Hunting` • `Network Security` • `Incident Response`
-`Vulnerability Assessment` • `CTFs` • `OSINT`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=500&color=0096FF&center=true&vCenter=true&width=700&lines=Blue+Teaming;Threat+Hunting;Network+Security;Incident+Response;Vulnerability+Assessment;CTFs;OSINT" />
+</p>
 
 ---
 
@@ -47,6 +49,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=400&color=00BFFF&center=true&vCenter=true&width=500&lines=C;C%2B%2B;Python;Java;SQL" />
+</p>
+
 ---
 
 ## 🐧 Systems
@@ -56,9 +62,7 @@
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Linux;Windows;Kali+Linux;WSL" />
 </p>
 
 ---
@@ -66,14 +70,15 @@
 ## 🌐 Networking
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1400&pause=450&color=00BFFF&center=true&vCenter=true&width=650&lines=TCP%2FIP;DNS;HTTP+%2F+HTTPS;Nmap;Wireshark;Netcat" />
+</p>
 
-<img src="https://img.shields.io/badge/TCP%2FIP-005B96?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/DNS-0077B6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTTP%2FHTTPS-0096C7?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-00B4D8?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-0077B6?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netcat-023E8A?style=for-the-badge&logoColor=white"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-001F3F?style=for-the-badge&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/DNS-003566?style=for-the-badge&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/NMAP-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WIRESHARK-0096C7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NETCAT-00B4D8?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -81,21 +86,16 @@
 ## 🛡️ Security
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Burp_Suite-005B96?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-0077B6?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-0096C7?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-023E8A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OSINT-0077B6?style=for-the-badge&logoColor=white"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=450&color=00BFFF&center=true&vCenter=true&width=650&lines=Threat+Hunting;Incident+Response;Vulnerability+Assessment;Security+Monitoring" />
 </p>
 
-```text
-Threat Hunting
-Incident Response
-Vulnerability Assessment
-Security Monitoring
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-001F3F?style=for-the-badge&logo=burpsuite&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Metasploit-003566?style=for-the-badge&logo=metasploit&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/OWASP-0077B6?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0096C7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-00B4D8?style=for-the-badge&logoColor=white"/>
+</p>
 
 ---
 
@@ -106,18 +106,18 @@ Security Monitoring
 ### All-in-one Cybersecurity Scanning & Monitoring Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mongodb&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1700&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=SCAN;ANALYZE;DETECT;MONITOR;SECURE" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=500&lines=SCAN;ANALYZE;DETECT;MONITOR;SECURE" />
+  <img src="https://skillicons.dev/icons?i=python,django,mongodb&theme=dark" />
 </p>
 
 ```text
 Python • Django • MongoDB • Nmap • Networking
 ```
 
-### Features
+### 🔵 Features
 
 * 🌐 Network Scanner
 * 🔎 Website Scanner
@@ -134,18 +134,18 @@ Python • Django • MongoDB • Nmap • Networking
 ### AI-powered Cybersecurity Learning Assistant
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1700&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=LEARN;ANALYZE;UNDERSTAND;PRACTICE;IMPROVE" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=550&lines=LEARN;ANALYZE;UNDERSTAND;PRACTICE;IMPROVE" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
 </p>
 
 ```text
 Python • FastAPI • Ollama • RAG • Qwen
 ```
 
-### Features
+### 🔵 Features
 
 * 🧠 AI Cybersecurity Tutor
 * 📚 Security Knowledge Base
@@ -158,24 +158,23 @@ Python • FastAPI • Ollama • RAG • Qwen
 # 🔵 🏆 CTF & Achievements
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=550&lines=CAPTURE+THE+FLAG;BREAK+%E2%80%A2+LEARN+%E2%80%A2+DEFEND;ALWAYS+LEARNING" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1700&pause=600&color=00BFFF&center=true&vCenter=true&width=600&lines=CAPTURE+THE+FLAG;BREAK;LEARN;DEFEND;REPEAT" />
 </p>
 
-| 🏅 Achievement         | 🔵 Result        |
-| ---------------------- | ---------------- |
-| 🥇 Technex CTF         | **Top 15%**      |
-| 🏅 Hack Zero CTF       | **Top 30**       |
-| 🇮🇳 HackTheBox Tryout | **5th in India** |
-| 🔥 TryHackMe           | **Top 15%**      |
-| 🛡️ CyberGeek CTF      | Participant      |
-| ⚔️ SecLeaf CTF         | Participant      |
+| 🏅 Achievement    | 🔵 Result   |
+| ----------------- | ----------- |
+| 🥇 Technex CTF    | **Top 15**  |
+| 🏅 Hack Zero CTF  | **Top 30**  |
+| 🔥 TryHackMe      | **Top 15%** |
+| 🛡️ CyberGeek CTF | Participant |
+| ⚔️ SecLeaf CTF    | Participant |
 
 ---
 
 # 🔵 📚 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=700&lines=ETHICAL+HACKING+CERTIFICATION;SOC+OPERATIONS;INCIDENT+RESPONSE;NETWORK+SECURITY;SECURITY+ARCHITECTURE;CTF+%26+CYBERSECURITY+CHALLENGES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1700&pause=600&color=00BFFF&center=true&vCenter=true&width=700&lines=ETHICAL+HACKING+CERTIFICATION;SOC+OPERATIONS;INCIDENT+RESPONSE;NETWORK+SECURITY;SECURITY+ARCHITECTURE;CTF+%26+CYBERSECURITY+CHALLENGES" />
 </p>
 
 | 🔵  | Currently Learning                           |
@@ -226,5 +225,9 @@ Python • FastAPI • Ollama • RAG • Qwen
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=120&section=footer&text=LEARN%20•%20DETECT%20•%20DEFEND%20•%20ARCHITECT&fontSize=18&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=700&lines=LEARN+%E2%80%A2+DETECT+%E2%80%A2+DEFEND+%E2%80%A2+ARCHITECT;THINK+LIKE+AN+ATTACKER;DEFEND+LIKE+AN+ENGINEER" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=120&section=footer&animation=twinkling" />
 </p>
